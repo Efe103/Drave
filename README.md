@@ -1,1 +1,2 @@
-# Drave
+# DraveOS
+# Kullanıcı politikası hariç yüklenemez.
